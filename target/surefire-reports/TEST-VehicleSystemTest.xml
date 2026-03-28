@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="VehicleSystemTest" time="0.641" tests="5" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="25"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/ganesh-kumar-r/NetBeansProjects/SET_E/target/test-classes:/home/ganesh-kumar-r/NetBeansProjects/SET_E/target/classes:/home/ganesh-kumar-r/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.3/junit-jupiter-api-5.10.3.jar:/home/ganesh-kumar-r/.m2/repository/org/junit/platform/junit-platform-commons/1.10.3/junit-platform-commons-1.10.3.jar:/home/ganesh-kumar-r/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/ganesh-kumar-r/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.3/junit-jupiter-params-5.10.3.jar:/home/ganesh-kumar-r/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.3/junit-jupiter-engine-5.10.3.jar:/home/ganesh-kumar-r/.m2/repository/org/junit/platform/junit-platform-engine/1.10.3/junit-platform-engine-1.10.3.jar:/home/ganesh-kumar-r/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="os.name" value="Linux"/>
+    <property name="java.vm.specification.version" value="25"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="/usr/lib/apache-netbeans/jdk/lib"/>
+    <property name="sun.java.command" value="/home/ganesh-kumar-r/NetBeansProjects/SET_E/target/surefire/surefirebooter-20260329033113026_3.jar /home/ganesh-kumar-r/NetBeansProjects/SET_E/target/surefire 2026-03-29T03-31-12_619-jvmRun1 surefire-20260329033113026_1tmp surefire_0-20260329033113026_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="test" value="VehicleSystemTest"/>
+    <property name="surefire.test.class.path" value="/home/ganesh-kumar-r/NetBeansProjects/SET_E/target/test-classes:/home/ganesh-kumar-r/NetBeansProjects/SET_E/target/classes:/home/ganesh-kumar-r/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.3/junit-jupiter-api-5.10.3.jar:/home/ganesh-kumar-r/.m2/repository/org/junit/platform/junit-platform-commons/1.10.3/junit-platform-commons-1.10.3.jar:/home/ganesh-kumar-r/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/ganesh-kumar-r/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.3/junit-jupiter-params-5.10.3.jar:/home/ganesh-kumar-r/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.3/junit-jupiter-engine-5.10.3.jar:/home/ganesh-kumar-r/.m2/repository/org/junit/platform/junit-platform-engine/1.10.3/junit-platform-engine-1.10.3.jar:/home/ganesh-kumar-r/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/ganesh-kumar-r"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2026-01-20"/>
+    <property name="java.home" value="/usr/lib/apache-netbeans/jdk"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/home/ganesh-kumar-r/NetBeansProjects/SET_E"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="/home/ganesh-kumar-r/NetBeansProjects/SET_E/target/surefire/surefirebooter-20260329033113026_3.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="25.0.2+10-LTS"/>
+    <property name="user.name" value="ganesh-kumar-r"/>
+    <property name="stdout.encoding" value="UTF-8"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="6.14.0-34-generic"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-25.0.2+10"/>
+    <property name="maven.ext.class.path" value="/usr/lib/apache-netbeans/java/maven-nblib/netbeans-eventspy.jar"/>
+    <property name="localRepository" value="/home/ganesh-kumar-r/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="25.0.2"/>
+    <property name="user.dir" value="/home/ganesh-kumar-r/NetBeansProjects/SET_E"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="UTF-8"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="25.0.2+10-LTS"/>
+    <property name="stdin.encoding" value="UTF-8"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="69.0"/>
+  </properties>
+  <testcase name="techLicenseEligibility" classname="VehicleSystemTest" time="0.285"/>
+  <testcase name="testFinancePooling" classname="VehicleSystemTest" time="0.031">
+    <system-out><![CDATA[Funds Pooled. Current Balance: 1000.0
+Funds Pooled. Current Balance: 1500.0
+]]></system-out>
+  </testcase>
+  <testcase name="testExamination" classname="VehicleSystemTest" time="0.02"/>
+  <testcase name="testVechicleRegistrationOwner" classname="VehicleSystemTest" time="0.027">
+    <system-out><![CDATA[Vehicle registered to: Ganesh
+]]></system-out>
+  </testcase>
+  <testcase name="testUserLogin" classname="VehicleSystemTest" time="0.014">
+    <system-out><![CDATA[Account created for: Ganesh
+]]></system-out>
+  </testcase>
+</testsuite>
